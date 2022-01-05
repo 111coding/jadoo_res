@@ -1,0 +1,11 @@
+{
+  "code": 200,
+  "message": "OK",
+  "content": {
+    "campaign": {
+      "id": 1,
+      "brix": 5910000,
+      "percent": 60
+    }
+  }
+}

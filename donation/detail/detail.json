@@ -1,0 +1,28 @@
+{
+  "code": 200,
+  "message": "OK",
+  "content": {
+    "campaign": {
+      "id": 1,
+      "photo": "photo",
+      "title": "title",
+      "sub": "sub",
+      "detail": "detail",
+      "introduce": "introduce",
+      "targetBrix": 9500000,
+      "currentBrix": 4500000,
+      "isLiked": true,
+      "startDate": "2021-12-10",
+      "endDate": "2022-01-28",
+      "tags": [
+        { "id": 1, "title": "독거노인" },
+        { "id": 2, "title": "과로" },
+        { "id": 3, "title": "독거노인캠페인" },
+        { "id": 4, "title": "독거노인캠페인" },
+        { "id": 5, "title": "독거노인캠페인" }
+      ],
+      "foundation": "foundation",
+      "foundationDetail": "foundationDetail"
+    }
+  }
+}

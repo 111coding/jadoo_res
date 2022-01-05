@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "message": "OK",
+  "content": {
+    "campaign": [
+      {
+        "id": 1,
+        "photo": "https://cdn.pixabay.com/photo/2016/06/29/22/02/parking-space-1487891_960_720.jpg",
+        "title": "끼니를 걱정하는 독거어르신들",
+        "sub": "시립중랑노인종합복지관",
+        "isLike": false,
+        "endDate": "2021-12-10",
+        "targetBrix": 9500000,
+        "currentBrix": 4500000,
+        "tags": [
+          { "id": 1, "title": "독거노인" },
+          { "id": 2, "title": "과로" },
+          { "id": 3, "title": "독거노인캠페인" },
+          { "id": 4, "title": "독거노인캠페인" },
+          { "id": 5, "title": "독거노인캠페인" }
+        ]
+      }
+    ]
+  }
+}

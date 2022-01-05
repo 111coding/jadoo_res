@@ -1,0 +1,12 @@
+{
+  "code": 200,
+  "message": "OK",
+  "content": {
+    "keyword": [
+      {
+        "id": 1,
+        "title": "독거노인"
+      }
+    ]
+  }
+}
