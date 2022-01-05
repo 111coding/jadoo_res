@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "message": "OK",
+  "content": {
+    "idx": 1,
+    "name": "Dudu",
+    "nameKor": "두두",
+    "color": "#FF00B1B3",
+    "gradientBegin": "#FFBFFFBA",
+    "gradientEnd": "#FF7FEFCD",
+    "imgSrc": "https://raw.githubusercontent.com/111coding/jadoo_res/master/svg/dudu.svg",
+    "summary": "해맑은 아기 자두",
+    "brix": 0,
+    "brixImgSrc": "https://raw.githubusercontent.com/111coding/jadoo_res/master/svg/dudu_brix.svg",
+    "content": "아기 자두 두두는 세상에 대한 호기심과 궁금증이 많습니다. 아기 자두 두두는세상에 대한 호기심과 궁금증이 많습니다.아기 자두 두두는세상에 대한 호기심과 궁금증이 많습니다.아기 자두 두두는세상에 대한 호기심과 궁금증이 많습니다."
+  }
+}
