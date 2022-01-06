@@ -78,34 +78,6 @@
         "name": "헬스/건강식품",
         "photo": "https://picsum.photos/seed/picsum/200/300"
       }
-    ],
-    "product" : [
-      {
-        "idx": 1,
-        "title": "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
-        "photo": "https://picsum.photos/seed/picsum/200/300",
-        "price": 11900
-      },
-      {
-        "idx": 2,
-        "title": "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
-        "photo": "https://picsum.photos/seed/picsum/200/300",
-        "price": 11900
-      }
-    ],
-    "goldbox": [
-      {
-        "idx": 1,
-        "title": "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
-        "photo": "https://picsum.photos/seed/picsum/200/300",
-        "price": 11900
-      },
-      {
-        "idx": 2,
-        "title": "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
-        "photo": "https://picsum.photos/seed/picsum/200/300",
-        "price": 11900
-      }
     ]
   }
 }
