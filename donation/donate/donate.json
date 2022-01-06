@@ -2,10 +2,8 @@
   "code": 200,
   "message": "OK",
   "content": {
-    "campaign": {
-      "id": 1,
-      "targetBrix": 9500000,
-      "currentBrix": 4500000
-    }
+    "campaignId": 1,
+    "targetBrix": 9500000,
+    "currentBrix": 4500000
   }
 }
