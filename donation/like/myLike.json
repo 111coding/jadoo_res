@@ -2,7 +2,7 @@
   "code": 200,
   "message": "OK",
   "content": {
-    "jadoo": [
+    "campaign": [
       {
         "id": 1,
         "photo": "https://cdn.pixabay.com/photo/2016/06/29/22/02/parking-space-1487891_960_720.jpg",
