@@ -2,9 +2,6 @@
   "code": 200,
   "message": "OK",
   "content": {
-    "campaign": {
-      "id": 1,
-      "isLike": true
-    }
+    "campaignId": 1
   }
 }
