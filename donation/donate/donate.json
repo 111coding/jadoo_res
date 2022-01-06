@@ -4,8 +4,8 @@
   "content": {
     "campaign": {
       "id": 1,
-      "brix": 5910000,
-      "percent": 60
+      "targetBrix": 9500000,
+      "currentBrix": 4500000
     }
   }
 }
