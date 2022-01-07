@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "message": "OK",
+  "content": [
+    {
+      "idx": 0,
+      "title": "0 자두 기부 문의 자두 기부 문의 ",
+      "createAt": "23. 03. 12",
+      "answerYn": true
+    },
+    {
+      "idx": 1,
+      "title": "1 자두 기부 문의 자두 기부 문의 ",
+      "createAt": "23. 03. 12",
+      "answerYn": false
+    },
+    {
+      "idx": 2,
+      "title": "1 자두 기부 문의 자두 기부 문의 ",
+      "createAt": "23. 03. 12",
+      "answerYn": false
+    }
+  ]
+}
