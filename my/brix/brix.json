@@ -1,0 +1,58 @@
+{
+  "code": 200,
+  "message": "OK",
+  "content": {
+    "usedBrix": [
+      {
+        "idx": 0,
+        "title": "와이드 베이직 티셔츠",
+        "itemCount": 0,
+        "point": -347824,
+        "imgUrl": "https://pbs.twimg.com/profile_images/1368078949058703361/fajS1ghF_400x400.jpg"
+      },
+      {
+        "idx": 1,
+        "title": "와이드 베이직 티셔츠",
+        "itemCount": 1,
+        "datetime": "2021.12.06",
+        "point": 464627,
+        "imgUrl": "https://pbs.twimg.com/profile_images/1368078949058703361/fajS1ghF_400x400.jpg"
+      }
+    ],
+    "expectedBrix": [
+      {
+        "idx": 0,
+        "title": "와이드 베이직 티셔츠",
+        "itemCount": 0,
+        "point": -347824,
+        "imgUrl": "https://pbs.twimg.com/profile_images/1368078949058703361/fajS1ghF_400x400.jpg"
+      },
+      {
+        "idx": 1,
+        "title": "와이드 베이직 티셔츠",
+        "itemCount": 1,
+        "datetime": "2021.12.06",
+        "point": 464627,
+        "imgUrl": "https://pbs.twimg.com/profile_images/1368078949058703361/fajS1ghF_400x400.jpg"
+      }
+    ],
+    "earnBrix": [
+      {
+        "idx": 0,
+        "title": "와이드 베이직 티셔츠",
+        "itemCount": 0,
+        "datetime": "2021.12.06",
+        "point": -347824,
+        "imgUrl": "https://pbs.twimg.com/profile_images/1368078949058703361/fajS1ghF_400x400.jpg"
+      },
+      {
+        "idx": 1,
+        "title": "와이드 베이직 티셔츠",
+        "itemCount": 1,
+        "datetime": "2021.12.06",
+        "point": 464627,
+        "imgUrl": "https://pbs.twimg.com/profile_images/1368078949058703361/fajS1ghF_400x400.jpg"
+      }
+    ]
+  }
+}
