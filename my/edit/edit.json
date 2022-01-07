@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "message": "OK",
+  "content": {
+    "idx": 7,
+    "nickname": "리오넬 메시",
+    "name": "메시",
+    "email": "lionel_messi@paris.com",
+    "emailAuthYn": true,
+    "phone": "010-7979-7979",
+    "phoneAuthYn": false,
+    "brix": 23123,
+    "profileImg": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202108/08/de678139-37c9-4130-94ee-046dcc7020b6.jpg",
+    "appleAuthYn": false,
+    "googleAuthYn": true,
+    "googleAuthDate": "2021 - 02 - 12 12:30 PM",
+    "kakaoAuthYn": false,
+    "coupangAuthYn": true,
+    "coupangAuthDate": "2021 - 02 - 12 12:30 PM"
+  }
+}
