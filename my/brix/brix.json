@@ -55,6 +55,11 @@
         "point": 464627,
         "imgUrl": "https://pbs.twimg.com/profile_images/1368078949058703361/fajS1ghF_400x400.jpg"
       }
-    ]
+    ],
+    "amount": {
+      "totalAmount": 10000,
+      "usedAmount": 5000,
+      "expectedAmount": 5000
+    }
   }
 }
