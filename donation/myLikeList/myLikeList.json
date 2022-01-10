@@ -4,7 +4,7 @@
   "content": {
     "campaign": [
       {
-        "id": 1,
+        "idx": 1,
         "photo": "https://cdn.pixabay.com/photo/2019/10/21/08/28/couple-4565429__340.jpg",
         "title": "끼니를 걱정하는 독거어르신들",
         "sub": "시립중랑노인종합복지관",
@@ -13,15 +13,15 @@
         "targetBrix": 8500000,
         "currentBrix": 4500000,
         "tags": [
-          { "id": 1, "title": "독거노인" },
-          { "id": 2, "title": "과로" },
-          { "id": 3, "title": "독거노인캠페인" },
-          { "id": 4, "title": "독거노인캠페인" },
-          { "id": 5, "title": "독거노인캠페인" }
+          { "idx": 1, "title": "독거노인" },
+          { "idx": 2, "title": "과로" },
+          { "idx": 3, "title": "독거노인캠페인" },
+          { "idx": 4, "title": "독거노인캠페인" },
+          { "idx": 5, "title": "독거노인캠페인" }
         ]
       },
       {
-        "id": 2,
+        "idx": 2,
         "photo": "https://cdn.pixabay.com/photo/2019/10/21/08/28/couple-4565429__340.jpg",
         "title": "끼니를 걱정하는 독거어르신들",
         "sub": "시립중랑노인종합복지관",
@@ -30,15 +30,15 @@
         "targetBrix": 7500000,
         "currentBrix": 4500000,
         "tags": [
-          { "id": 1, "title": "독거노인" },
-          { "id": 2, "title": "과로" },
-          { "id": 3, "title": "독거노인캠페인" },
-          { "id": 4, "title": "독거노인캠페인" },
-          { "id": 5, "title": "독거노인캠페인" }
+          { "idx": 1, "title": "독거노인" },
+          { "idx": 2, "title": "과로" },
+          { "idx": 3, "title": "독거노인캠페인" },
+          { "idx": 4, "title": "독거노인캠페인" },
+          { "idx": 5, "title": "독거노인캠페인" }
         ]
       },
       {
-        "id": 3,
+        "idx": 3,
         "photo": "https://cdn.pixabay.com/photo/2019/10/21/08/28/couple-4565429__340.jpg",
         "title": "끼니를 걱정하는 독거어르신들",
         "sub": "시립중랑노인종합복지관",
@@ -47,15 +47,15 @@
         "targetBrix": 6500000,
         "currentBrix": 4500000,
         "tags": [
-          { "id": 1, "title": "독거노인" },
-          { "id": 2, "title": "과로" },
-          { "id": 3, "title": "독거노인캠페인" },
-          { "id": 4, "title": "독거노인캠페인" },
-          { "id": 5, "title": "독거노인캠페인" }
+          { "idx": 1, "title": "독거노인" },
+          { "idx": 2, "title": "과로" },
+          { "idx": 3, "title": "독거노인캠페인" },
+          { "idx": 4, "title": "독거노인캠페인" },
+          { "idx": 5, "title": "독거노인캠페인" }
         ]
       },
       {
-        "id": 4,
+        "idx": 4,
         "photo": "https://cdn.pixabay.com/photo/2019/10/21/08/28/couple-4565429__340.jpg",
         "title": "끼니를 걱정하는 독거어르신들",
         "sub": "시립중랑노인종합복지관",
@@ -64,15 +64,15 @@
         "targetBrix": 9500000,
         "currentBrix": 14500000,
         "tags": [
-          { "id": 1, "title": "독거노인" },
-          { "id": 2, "title": "과로" },
-          { "id": 3, "title": "독거노인캠페인" },
-          { "id": 4, "title": "독거노인캠페인" },
-          { "id": 5, "title": "독거노인캠페인" }
+          { "idx": 1, "title": "독거노인" },
+          { "idx": 2, "title": "과로" },
+          { "idx": 3, "title": "독거노인캠페인" },
+          { "idx": 4, "title": "독거노인캠페인" },
+          { "idx": 5, "title": "독거노인캠페인" }
         ]
       },
       {
-        "id": 5,
+        "idx": 5,
         "photo": "https://cdn.pixabay.com/photo/2019/10/21/08/28/couple-4565429__340.jpg",
         "title": "끼니를 걱정하는 독거어르신들",
         "sub": "시립중랑노인종합복지관",
@@ -81,11 +81,11 @@
         "targetBrix": 9500000,
         "currentBrix": 4500000,
         "tags": [
-          { "id": 1, "title": "독거노인" },
-          { "id": 2, "title": "과로" },
-          { "id": 3, "title": "독거노인캠페인" },
-          { "id": 4, "title": "독거노인캠페인" },
-          { "id": 5, "title": "독거노인캠페인" }
+          { "idx": 1, "title": "독거노인" },
+          { "idx": 2, "title": "과로" },
+          { "idx": 3, "title": "독거노인캠페인" },
+          { "idx": 4, "title": "독거노인캠페인" },
+          { "idx": 5, "title": "독거노인캠페인" }
         ]
       }
     ]

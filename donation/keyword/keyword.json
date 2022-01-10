@@ -4,35 +4,35 @@
   "content": {
     "keyword": [
       {
-        "id": 1,
+        "idx": 1,
         "title": "겨울"
       },
       {
-        "id": 2,
+        "idx": 2,
         "title": "독거노인"
       },
       {
-        "id": 3,
+        "idx": 3,
         "title": "환경보호"
       },
       {
-        "id": 4,
+        "idx": 4,
         "title": "어린이"
       },
       {
-        "id": 5,
+        "idx": 5,
         "title": "미혼모"
       },
       {
-        "id": 6,
+        "idx": 6,
         "title": "보육원"
       },
       {
-        "id": 7,
+        "idx": 7,
         "title": "북극곰"
       },
       {
-        "id": 8,
+        "idx": 8,
         "title": "젠장"
       }
     ]

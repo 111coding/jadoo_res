@@ -3,7 +3,7 @@
   "message": "OK",
   "content": {
     "campaign": {
-      "id": 1,
+      "idx": 1,
       "photo": "https://cdn.pixabay.com/photo/2015/07/15/07/13/homeless-845752__340.jpg",
       "title": "끼니를 걱정하는 독거어르신들",
       "sub": "시립중랑노인종합복지관",
@@ -15,11 +15,11 @@
       "startDate": "2021-12-10",
       "endDate": "2022-01-28",
       "tags": [
-        { "id": 1, "title": "독거노인" },
-        { "id": 2, "title": "과로" },
-        { "id": 3, "title": "초록우산" },
-        { "id": 4, "title": "밀키트" },
-        { "id": 5, "title": "노인" }
+        { "idx": 1, "title": "독거노인" },
+        { "idx": 2, "title": "과로" },
+        { "idx": 3, "title": "초록우산" },
+        { "idx": 4, "title": "밀키트" },
+        { "idx": 5, "title": "노인" }
       ],
       "foundation": "foundation",
       "foundationDetail": "foundationDetail"
