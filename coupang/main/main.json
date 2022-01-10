@@ -2,6 +2,10 @@
   "code": 200,
   "message": "OK",
   "content": {
+    "banner": {
+      "idx": 1,
+      "photo": "https://picsum.photos/seed/picsum/200/300"
+    },
     "category": [
       {
         "idx": 1,
