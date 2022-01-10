@@ -1,54 +1,94 @@
 {
-  "code": 200,
-  "message": "OK",
-  "content": {
-      "banners": [
-          {
-              "idx": 1,
-              "imgSrc": "https://health.chosun.com/site/data/img_dir/2020/09/03/2020090301512_0.jpg",
-              "url": "https://google.com"
-          },
-          {
-              "idx": 2,
-              "imgSrc": "https://health.chosun.com/site/data/img_dir/2020/09/03/2020090301512_0.jpg",
-              "url": "https://google.com"
-          },
-          {
-              "idx": 3,
-              "imgSrc": "https://health.chosun.com/site/data/img_dir/2020/09/03/2020090301512_0.jpg",
-              "url": "https://google.com"
-          }
-      ],
-      "currentCampaign": {
-          "idx": 1,
-          "photo": "https://cdn.pixabay.com/photo/2016/06/29/22/02/parking-space-1487891_960_720.jpg",
-          "title": "끼니를 걱정하는 독거어르신들",
-          "content": "독거 어르신들께 사랑을 나누어 보아요독거 어르신들께 사랑을 나누어 보아요독거 어르신들께 사랑을 나누어 보아요",
-          "endDate": "2022-12-10",
-          "targetBrix": 9500000,
-          "currentBrix": 4500000
-      },
-      "likeCampaigns": [
-          {
-              "idx": 1,
-              "photo": "https://cdn.pixabay.com/photo/2016/06/29/22/02/parking-space-1487891_960_720.jpg",
-              "title": "끼니를 걱정하는 독거어르신들",
-              "sub": "시립중랑노인종합복지관",
-              "isLike": true,
-              "endDate": "2022-12-10",
-              "targetBrix": 9500000,
-              "currentBrix": 4500000,
-              "tags": [
-                  {
-                      "idx": 1,
-                      "title": "독거노인"
-                  },
-                  {
-                      "idx": 2,
-                      "title": "과로"
-                  }
-              ]
-          }
-      ]
-  }
+    "code": 200,
+    "message": "OK",
+    "content": {
+        "banners": [
+            {
+                "idx": 1,
+                "imgSrc": "https://health.chosun.com/site/data/img_dir/2020/09/03/2020090301512_0.jpg",
+                "url": "https://google.com"
+            },
+            {
+                "idx": 2,
+                "imgSrc": "https://health.chosun.com/site/data/img_dir/2020/09/03/2020090301512_0.jpg",
+                "url": "https://google.com"
+            },
+            {
+                "idx": 3,
+                "imgSrc": "https://health.chosun.com/site/data/img_dir/2020/09/03/2020090301512_0.jpg",
+                "url": "https://google.com"
+            }
+        ],
+        "currentCampaign": {
+            "idx": 1,
+            "photo": "https://cdn.pixabay.com/photo/2016/06/29/22/02/parking-space-1487891_960_720.jpg",
+            "title": "끼니를 걱정하는 독거어르신들",
+            "content": "독거 어르신들께 사랑을 나누어 보아요독거 어르신들께 사랑을 나누어 보아요독거 어르신들께 사랑을 나누어 보아요",
+            "endDate": "2022-12-10",
+            "targetBrix": 9500000,
+            "currentBrix": 4500000
+        },
+        "likeCampaigns": [
+            {
+                "idx": 1,
+                "photo": "https://cdn.pixabay.com/photo/2016/06/29/22/02/parking-space-1487891_960_720.jpg",
+                "title": "끼니를 걱정하는 독거어르신들",
+                "sub": "시립중랑노인종합복지관",
+                "isLike": true,
+                "endDate": "2022-12-10",
+                "targetBrix": 9500000,
+                "currentBrix": 4500000,
+                "tags": [
+                    {
+                        "idx": 1,
+                        "title": "독거노인"
+                    },
+                    {
+                        "idx": 2,
+                        "title": "과로"
+                    }
+                ]
+            },
+            {
+                "idx": 2,
+                "photo": "https://cdn.pixabay.com/photo/2016/06/29/22/02/parking-space-1487891_960_720.jpg",
+                "title": "끼니를 걱정하는 독거어르신들",
+                "sub": "시립중랑노인종합복지관",
+                "isLike": true,
+                "endDate": "2022-12-10",
+                "targetBrix": 9500000,
+                "currentBrix": 4500000,
+                "tags": [
+                    {
+                        "idx": 1,
+                        "title": "독거노인"
+                    },
+                    {
+                        "idx": 2,
+                        "title": "과로"
+                    }
+                ]
+            },
+            {
+                "idx": 3,
+                "photo": "https://cdn.pixabay.com/photo/2016/06/29/22/02/parking-space-1487891_960_720.jpg",
+                "title": "끼니를 걱정하는 독거어르신들",
+                "sub": "시립중랑노인종합복지관",
+                "isLike": true,
+                "endDate": "2022-12-10",
+                "targetBrix": 9500000,
+                "currentBrix": 4500000,
+                "tags": [
+                    {
+                        "idx": 1,
+                        "title": "독거노인"
+                    },
+                    {
+                        "idx": 2,
+                        "title": "과로"
+                    }
+                ]
+            }
+        ]
+    }
 }
