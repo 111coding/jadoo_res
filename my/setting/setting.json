@@ -1,0 +1,9 @@
+{
+  "code": 200,
+  "message": "OK",
+  "content": {
+    "arlim": true,
+    "marketing": false,
+    "night": true
+  }
+}
