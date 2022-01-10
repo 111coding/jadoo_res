@@ -1,0 +1,16 @@
+{
+  "code": 200,
+  "message": "OK",
+  "content": {
+    "idx": 7,
+    "nickname": "리오넬 메시",
+    "jfName": "Netta",
+    "jfImgSrc": "https://raw.githubusercontent.com/111coding/jadoo_res/master/svg/neta.svg",
+    "jfColor": "#FFFA4671",
+    "jfGradientBegin": "#FFFFCCAF",
+    "jfGradientEnd": "#FFFA4671",
+    "brixRemaning": 32649,
+    "profileImg": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202108/08/de678139-37c9-4130-94ee-046dcc7020b6.jpg",
+    "brix": 23212
+  }
+}
