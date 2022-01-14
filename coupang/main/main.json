@@ -2,85 +2,309 @@
   "code": 200,
   "message": "OK",
   "content": {
-    "banner": {
-      "idx": 1,
-      "photo": "https://picsum.photos/seed/picsum/200/300"
+    "banner":{
+      "idx":1,
+      "photo":{
+        "idx": 1,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 1,
+            "fileIdx": 2,
+            "originalName": "test.svg",
+            "extension": "svg",
+            "size": 244,
+            "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+            "createDate": "2022-01-13T18:00:58.862042"
+          }
+        ]
+      }
     },
     "category": [
       {
         "idx": 1,
         "name": "패션의류/잡화",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       },
       {
         "idx": 2,
         "name": "뷰티",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       },
       {
         "idx": 3,
         "name": "출산/유아동",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       },
       {
         "idx": 4,
         "name": "식품",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       },
       {
         "idx": 5,
         "name": "주방용품",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       },
       {
         "idx": 6,
         "name": "생활용품",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       },
       {
         "idx": 7,
         "name": "홈인테리어",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       },
       {
         "idx": 8,
         "name": "가전디지털",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       },
       {
         "idx": 9,
         "name": "스포츠/레저",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       },
       {
         "idx": 10,
         "name": "자동차용품",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       },
       {
         "idx": 11,
         "name": "도서/음반/DVD",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       },
       {
         "idx": 12,
         "name": "완구/취미",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       },
       {
         "idx": 13,
         "name": "문구/오피스",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       },
       {
         "idx": 14,
         "name": "반려동물용품",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       },
       {
         "idx": 15,
         "name": "헬스/건강식품",
-        "photo": "https://picsum.photos/seed/picsum/200/300"
+        "photo":{
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       }
     ],
     "product" : [
