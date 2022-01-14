@@ -2,29 +2,49 @@
   "code": 200,
   "message": "OK",
   "content": {
-    "banner":{
-      "idx":1,
-      "photo":{
+    "banner": [
+      {
         "idx": 1,
-        "fileCategory": "MEMBER",
-        "files": [
-          {
-            "idx": 1,
-            "fileIdx": 2,
-            "originalName": "test.svg",
-            "extension": "svg",
-            "size": 244,
-            "fileUrl": "https://picsum.photos/seed/picsum/200/300",
-            "createDate": "2022-01-13T18:00:58.862042"
-          }
-        ]
+        "photo": {
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
+      },
+      {
+        "idx": 2,
+        "photo": {
+          "idx": 1,
+          "fileCategory": "MEMBER",
+          "files": [
+            {
+              "idx": 1,
+              "fileIdx": 2,
+              "originalName": "test.svg",
+              "extension": "svg",
+              "size": 244,
+              "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+              "createDate": "2022-01-13T18:00:58.862042"
+            }
+          ]
+        }
       }
-    },
+    ],
     "category": [
       {
         "idx": 1,
         "name": "패션의류/잡화",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -43,7 +63,7 @@
       {
         "idx": 2,
         "name": "뷰티",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -62,7 +82,7 @@
       {
         "idx": 3,
         "name": "출산/유아동",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -81,7 +101,7 @@
       {
         "idx": 4,
         "name": "식품",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -100,7 +120,7 @@
       {
         "idx": 5,
         "name": "주방용품",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -119,7 +139,7 @@
       {
         "idx": 6,
         "name": "생활용품",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -138,7 +158,7 @@
       {
         "idx": 7,
         "name": "홈인테리어",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -157,7 +177,7 @@
       {
         "idx": 8,
         "name": "가전디지털",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -176,7 +196,7 @@
       {
         "idx": 9,
         "name": "스포츠/레저",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -195,7 +215,7 @@
       {
         "idx": 10,
         "name": "자동차용품",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -214,7 +234,7 @@
       {
         "idx": 11,
         "name": "도서/음반/DVD",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -233,7 +253,7 @@
       {
         "idx": 12,
         "name": "완구/취미",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -252,7 +272,7 @@
       {
         "idx": 13,
         "name": "문구/오피스",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -271,7 +291,7 @@
       {
         "idx": 14,
         "name": "반려동물용품",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -290,7 +310,7 @@
       {
         "idx": 15,
         "name": "헬스/건강식품",
-        "photo":{
+        "photo": {
           "idx": 1,
           "fileCategory": "MEMBER",
           "files": [
@@ -307,7 +327,7 @@
         }
       }
     ],
-    "product" : [
+    "product": [
       {
         "idx": 1,
         "title": "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
