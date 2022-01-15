@@ -1,44 +1,42 @@
 {
   "code": 200,
   "message": "OK",
-  "content": {
-    "items" : [
-      {
-        "idx" : 1,
-        "title" : "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
-        "photo" : "https://picsum.photos/seed/picsum/200/300",
-        "price" : 11900
-      },
-      {
-        "idx" : 2,
-        "title" : "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
-        "photo" : "https://picsum.photos/seed/picsum/200/300",
-        "price" : 11900
-      },
-      {
-        "idx" : 3,
-        "title" : "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
-        "photo" : "https://picsum.photos/seed/picsum/200/300",
-        "price" : 11900
-      },
-      {
-        "idx" : 4,
-        "title" : "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
-        "photo" : "https://picsum.photos/seed/picsum/200/300",
-        "price" : 11900
-      },
-      {
-        "idx" : 5,
-        "title" : "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
-        "photo" : "https://picsum.photos/seed/picsum/200/300",
-        "price" : 11900
-      },
-      {
-        "idx" : 6,
-        "title" : "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
-        "photo" : "https://picsum.photos/seed/picsum/200/300",
-        "price" : 11900
-      }
-    ]
-  }
+  "content": [
+    {
+      "idx": 1,
+      "title": "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
+      "photo": "https://picsum.photos/seed/picsum/200/300",
+      "price": 11900
+    },
+    {
+      "idx": 2,
+      "title": "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
+      "photo": "https://picsum.photos/seed/picsum/200/300",
+      "price": 11900
+    },
+    {
+      "idx": 3,
+      "title": "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
+      "photo": "https://picsum.photos/seed/picsum/200/300",
+      "price": 11900
+    },
+    {
+      "idx": 4,
+      "title": "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
+      "photo": "https://picsum.photos/seed/picsum/200/300",
+      "price": 11900
+    },
+    {
+      "idx": 5,
+      "title": "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
+      "photo": "https://picsum.photos/seed/picsum/200/300",
+      "price": 11900
+    },
+    {
+      "idx": 6,
+      "title": "클라스카 싱글 에티오피아 드립백커피, 10g, 10개",
+      "photo": "https://picsum.photos/seed/picsum/200/300",
+      "price": 11900
+    }
+  ]
 }
