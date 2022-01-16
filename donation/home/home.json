@@ -40,23 +40,19 @@
         "currentCampaign": {
             "idx": 1,
             "photo": {
-                "code": 200,
-                "message": "파일 저장에 성공하였습니다.",
-                "content": {
-                    "idx": 8,
-                    "fileCategory": "MEMBER",
-                    "files": [
-                        {
-                            "idx": 8,
-                            "fileIdx": 8,
-                            "originalName": "바나나2.jpeg",
-                            "extension": "jpeg",
-                            "size": 50816,
-                            "fileUrl": "https://lawshop-test.s3.ap-northeast-2.amazonaws.com/jadoo/50520a04-5758-4e0f-adfd-cce40b4fb1ce_20220114145823",
-                            "createDate": "2022-01-14T14:58:23.6434981"
-                        }
-                    ]
-                }
+                "idx": 8,
+                "fileCategory": "MEMBER",
+                "files": [
+                    {
+                        "idx": 8,
+                        "fileIdx": 8,
+                        "originalName": "바나나2.jpeg",
+                        "extension": "jpeg",
+                        "size": 50816,
+                        "fileUrl": "https://lawshop-test.s3.ap-northeast-2.amazonaws.com/jadoo/50520a04-5758-4e0f-adfd-cce40b4fb1ce_20220114145823",
+                        "createDate": "2022-01-14T14:58:23.6434981"
+                    }
+                ]
             },
             "title": "끼니를 걱정하는 독거어르신들",
             "content": "독거 어르신들께 사랑을 나누어 보아요독거 어르신들께 사랑을 나누어 보아요독거 어르신들께 사랑을 나누어 보아요",
