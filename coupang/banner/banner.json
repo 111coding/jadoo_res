@@ -1,0 +1,42 @@
+{
+  "code": 200,
+  "message": "OK",
+  "content": [
+    {
+      "idx": 1,
+      "photo": {
+        "idx": 1,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 1,
+            "fileIdx": 2,
+            "originalName": "test.svg",
+            "extension": "svg",
+            "size": 244,
+            "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+            "createDate": "2022-01-13T18:00:58.862042"
+          }
+        ]
+      }
+    },
+    {
+      "idx": 2,
+      "photo": {
+        "idx": 1,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 1,
+            "fileIdx": 2,
+            "originalName": "test.svg",
+            "extension": "svg",
+            "size": 244,
+            "fileUrl": "https://picsum.photos/seed/picsum/200/300",
+            "createDate": "2022-01-13T18:00:58.862042"
+          }
+        ]
+      }
+    }
+  ]
+}
