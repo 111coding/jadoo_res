@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "message": "OK",
+  "content": [
+    {
+      "idx": 1,
+      "name": "Dudu",
+      "nameKor": "두두",
+      "color": "#FF00B1B3",
+      "graBegin": "#FFBFFFBA",
+      "graEnd": "#FF7FEFCD",
+      "content": "아기 자두 두두는\n세상에 대한 호기심과 궁금증이 많습니다.\n더 많은 세상을 보고싶은 마음에\n빨리 어른 자두가 되는 것이 꿈입니다.",
+      "summary": "해맑은 아기 자두",
+      "title": "두두는 누구인가요?",
+      "brixImg": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/dudu_brix.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "icon": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/icon_crt_dudu-60.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconWave": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/element_crt_opa_dudu.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconDisable": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/icon_crt_dudu-40.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconEnable": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/icon_crt_dudu-60.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconFull": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/element_crt_pro_dudu.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      }
+    },
+    {
+      "idx": 2,
+      "name": "Ven",
+      "nameKor": "벤",
+      "color": "#FFFFC876",
+      "graBegin": "#FFFBF7A5",
+      "graEnd": "#FFFFC876",
+      "content": "앞머리가 매우 긴 청소년 자두 벤은\n특유의 장난끼와 유머로 주위의\n웃음이 끊이질 않게 합니다.\n앞이 너무 보이지 않아 머리를\n자를까 고민하고 있습니다.",
+      "summary": "질풍노도 청소년 자두",
+      "title": "벤은 누구인가요?",
+      "brixImg": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/ven_brix.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "icon": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/icon_crt_ven-60.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconWave": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/element_crt_opa_ven.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconDisable": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/icon_crt_ven-40.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconEnable": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/icon_crt_ven-60.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconFull": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/element_crt_pro_ven.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      }
+    },
+    {
+      "idx": 3,
+      "name": "Pruny",
+      "nameKor": "프루니",
+      "color": "#FF8E8AFF",
+      "graBegin": "#FFAEB6FF",
+      "graEnd": "#FF8E8AFF",
+      "content": "미국 캘리포니아에서 온 프루니는\nBTS가 너무 좋아 BTS의 나라\n한국을 찾아온 해외파 자두 입니다.\n프루니는 BTS의 대표색깔이 자신과\n자신과 같은 보라색이라 너무 행복하다고 합니다.",
+      "summary": "인기쟁이 해외파 자두",
+      "title": "프루니는 누구인가요?",
+      "brixImg": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/pruny_brix.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "icon": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/icon_crt_pruny-60.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconWave": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/element_crt_opa_pruny.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconDisable": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/icon_crt_pruny-40.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconEnable": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/icon_crt_pruny-60.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconFull": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/element_crt_pro_pruny.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      }
+    },
+    {
+      "idx": 4,
+      "name": "Neta",
+      "nameKor": "네타",
+      "color": "#FFFA4671",
+      "graBegin": "#FFFFCCAF",
+      "graEnd": "#FFFA4671",
+      "content": "열정많은 자두 네타는 언젠가\n자신이 천도복숭아가 될 수 있을거라는 꿈을 가지고\n천도복숭아가 되는 방법을\n찾기 위한 여행을 하고싶어 합니다.",
+      "summary": "복숭아가 되고싶은 자두",
+      "title": "네타는 누구인가요?",
+      "brixImg": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/neta_brix.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "icon": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/icon_crt_neta-60.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconWave": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/element_crt_opa_neta.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconDisable": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/icon_crt_neta-40.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconEnable": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/icon_crt_neta-60.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      },
+      "iconFull": {
+        "idx": 2,
+        "fileCategory": "MEMBER",
+        "files": [
+          {
+            "idx": 2,
+            "fileIdx": 2,
+            "originalName": "icon_crt_dudu-60.svg",
+            "extension": "svg",
+            "size": 1806,
+            "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/my/setting/friends/icon/element_crt_pro_neta.svg",
+            "createDate": "2022-01-16T19:04:22.027401"
+          }
+        ]
+      }
+    }
+  ]
+}

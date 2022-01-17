@@ -1,0 +1,39 @@
+{
+    "code": 200,
+    "message": "OK",
+    "content": [
+        {
+            "idx": 1,
+            "bannerImg": {
+                "idx": 8,
+                "fileCategory": "MEMBER",
+                "files": [
+                    {
+                        "idx": 8,
+                        "fileIdx": 8,
+                        "originalName": "바나나2.jpeg",
+                        "extension": "jpeg",
+                        "size": 50816,
+                        "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/donation/banner/img_main-banner_03.png",
+                        "createDate": "2022-01-14T14:58:23.6434981"
+                    }
+                ]
+            },
+            "detailImg": {
+                "idx": 8,
+                "fileCategory": "MEMBER",
+                "files": [
+                    {
+                        "idx": 8,
+                        "fileIdx": 8,
+                        "originalName": "바나나2.jpeg",
+                        "extension": "jpeg",
+                        "size": 50816,
+                        "fileUrl": "https://raw.githubusercontent.com/111coding/jadoo_res/master/donation/banner/img_main-detail_03.png",
+                        "createDate": "2022-01-14T14:58:23.6434981"
+                    }
+                ]
+            }
+        }
+    ]
+}
