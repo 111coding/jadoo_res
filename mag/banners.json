@@ -1,0 +1,82 @@
+{
+  "code": 200,
+  "message": "회원 조회를 성공했습니다.",
+  "content": [
+    {
+      "idx": 0,
+      "bannerImg": {
+        "idx": 1,
+        "fileCategory": "MAGAZINE",
+        "files": [
+          {
+            "idx": 1,
+            "fileIdx": 1,
+            "originalName": "originalName",
+            "extension": "extension",
+            "size": 1,
+            "fileUrl": "https://github.com/111coding/jadoo_res/blob/master/img/banner_1_4x.jpg?raw=true",
+            "createDate": "2022-03-17T14:30:13.097238"
+          }
+        ]
+      },
+      "action": null
+    },
+    {
+      "idx": 1,
+      "bannerImg": {
+        "idx": 1,
+        "fileCategory": "MAGAZINE",
+        "files": [
+          {
+            "idx": 1,
+            "fileIdx": 1,
+            "originalName": "originalName",
+            "extension": "extension",
+            "size": 1,
+            "fileUrl": "https://github.com/111coding/jadoo_res/blob/master/img/banner_2_4x.jpg?raw=true",
+            "createDate": "2022-03-17T14:30:13.097439"
+          }
+        ]
+      },
+      "action": null
+    },
+    {
+      "idx": 2,
+      "bannerImg": {
+        "idx": 1,
+        "fileCategory": "MAGAZINE",
+        "files": [
+          {
+            "idx": 1,
+            "fileIdx": 1,
+            "originalName": "originalName",
+            "extension": "extension",
+            "size": 1,
+            "fileUrl": "https://github.com/111coding/jadoo_res/blob/master/img/banner_1_4x.jpg?raw=true",
+            "createDate": "2022-03-17T14:30:13.097443"
+          }
+        ]
+      },
+      "action": null
+    },
+    {
+      "idx": 3,
+      "bannerImg": {
+        "idx": 1,
+        "fileCategory": "MAGAZINE",
+        "files": [
+          {
+            "idx": 1,
+            "fileIdx": 1,
+            "originalName": "originalName",
+            "extension": "extension",
+            "size": 1,
+            "fileUrl": "https://github.com/111coding/jadoo_res/blob/master/img/banner_2_4x.jpg?raw=true",
+            "createDate": "2022-03-17T14:30:13.097444"
+          }
+        ]
+      },
+      "action": null
+    }
+  ]
+}
